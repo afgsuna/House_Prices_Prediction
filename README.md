@@ -20,21 +20,37 @@ A complete **Machine Learning API** that predicts house prices based on input fe
 ## 🗂️ Project Structure
 
 House_Prices_ML/
+
 │
+
 ├── src/ # Python scripts
+
 │ ├── etl.py # Data processing
+
 │ ├── train.py # Model training
+
 │ └── app.py # FastAPI server
+
 │
+
 ├── model/ # Trained model (optional)
+
 │ └── model.joblib
+
 │
+
 ├── data/ # Dataset
+
 │ └── raw/ # Original CSV files
+
 │
+
 ├── requirements.txt # Python dependencies
+
 ├── Dockerfile # Docker image definition
+
 ├── .gitignore # Files/folders to ignore
+
 └── README.md # This file
 
 ---
