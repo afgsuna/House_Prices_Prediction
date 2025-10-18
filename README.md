@@ -137,7 +137,7 @@ Sasan Mousavi
 
 https://afgsuna.github.io/Sacccan/
 https://github.com/afgsuna
-https://www.linkedin.com/feed/
+https://www.linkedin.com/in/sasan-m-52305512b/
 
 
 
